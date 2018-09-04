@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/appreq" android:title="Appointment Request" android:icon="@drawable/ic_appreq_24dp"/>
+    <item android:id="@+id/consult" android:title="Consult" android:icon="@drawable/ic_consult_24dp"/>
+    <item android:id="@+id/approval" android:title="Approval" android:icon="@drawable/ic_approval_24dp"/>
+    <item android:id="@+id/set" android:title="Settings" android:icon="@drawable/ic_settings_24dp"/>
+    <item android:id="@+id/logo" android:title="Logout" android:icon="@drawable/ic_logout_24dp"/>
+
+
+
+</menu>
